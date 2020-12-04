@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseFracciones", "ClaseFracciones.csproj", "{C74CDD2C-AD2A-4272-9A9A-18F1EE938A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74CDD2C-AD2A-4272-9A9A-18F1EE938A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74CDD2C-AD2A-4272-9A9A-18F1EE938A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74CDD2C-AD2A-4272-9A9A-18F1EE938A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74CDD2C-AD2A-4272-9A9A-18F1EE938A87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA9B947-9973-40F0-BB17-09611C2B64D8}
+	EndGlobalSection
+EndGlobal

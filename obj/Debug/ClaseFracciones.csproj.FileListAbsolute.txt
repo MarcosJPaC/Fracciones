@@ -1,0 +1,10 @@
+C:\Users\Computadora\source\repos\Frac\bin\Debug\ClaseFracciones.exe.config
+C:\Users\Computadora\source\repos\Frac\bin\Debug\ClaseFracciones.exe
+C:\Users\Computadora\source\repos\Frac\bin\Debug\ClaseFracciones.pdb
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.csprojAssemblyReference.cache
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.Form1.resources
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.Properties.Resources.resources
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.csproj.GenerateResource.cache
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.csproj.CoreCompileInputs.cache
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.exe
+C:\Users\Computadora\source\repos\Frac\obj\Debug\ClaseFracciones.pdb
